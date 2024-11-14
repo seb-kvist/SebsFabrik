@@ -1,0 +1,15 @@
+C:\Users\sebas\Documents\SEBWU24\Inlamningsuppgifter\SebsFabrik\obj\Debug\net8.0\SebsFabrik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Documents\SEBWU24\Inlamningsuppgifter\SebsFabrik\obj\Debug\net8.0\SebsFabrik.AssemblyInfoInputs.cache
+C:\Users\sebas\Documents\SEBWU24\Inlamningsuppgifter\SebsFabrik\obj\Debug\net8.0\SebsFabrik.AssemblyInfo.cs
+C:\Users\sebas\Documents\SEBWU24\Inlamningsuppgifter\SebsFabrik\obj\Debug\net8.0\SebsFabrik.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Documents\SEBWU24\Inlamningsuppgifter\SebsFabrik\obj\Debug\net8.0\SebsFabrik.sourcelink.json
+C:\Users\sebas\Documents\SEBWU24\Inlamningsuppgifter\SebsFabrik\bin\Debug\net8.0\SebsFabrik.exe
+C:\Users\sebas\Documents\SEBWU24\Inlamningsuppgifter\SebsFabrik\bin\Debug\net8.0\SebsFabrik.deps.json
+C:\Users\sebas\Documents\SEBWU24\Inlamningsuppgifter\SebsFabrik\bin\Debug\net8.0\SebsFabrik.runtimeconfig.json
+C:\Users\sebas\Documents\SEBWU24\Inlamningsuppgifter\SebsFabrik\bin\Debug\net8.0\SebsFabrik.dll
+C:\Users\sebas\Documents\SEBWU24\Inlamningsuppgifter\SebsFabrik\bin\Debug\net8.0\SebsFabrik.pdb
+C:\Users\sebas\Documents\SEBWU24\Inlamningsuppgifter\SebsFabrik\obj\Debug\net8.0\SebsFabrik.dll
+C:\Users\sebas\Documents\SEBWU24\Inlamningsuppgifter\SebsFabrik\obj\Debug\net8.0\refint\SebsFabrik.dll
+C:\Users\sebas\Documents\SEBWU24\Inlamningsuppgifter\SebsFabrik\obj\Debug\net8.0\SebsFabrik.pdb
+C:\Users\sebas\Documents\SEBWU24\Inlamningsuppgifter\SebsFabrik\obj\Debug\net8.0\SebsFabrik.genruntimeconfig.cache
+C:\Users\sebas\Documents\SEBWU24\Inlamningsuppgifter\SebsFabrik\obj\Debug\net8.0\ref\SebsFabrik.dll
