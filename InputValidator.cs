@@ -2,7 +2,7 @@ using System;
 
 namespace SebsFabrik;
 
-public static class InputValidator
+public static class InputValidator // INPUT VALIDATOR FOR STRING, INT AND DOUBLE = MAKING SURE USER IS USING THE CORRECT ANSWER METHOD, aka not string when asked in numbers.
 {
     public static string GetValidString(string prompt)
     {
@@ -50,7 +50,7 @@ public static class InputValidator
         return value;
     }
 
-    public static string GetvalidCarLicense()
+    public static string GetvalidCarLicense()  //SPECIAL VALIDATION METHOD, MAKE SURE SPECIFIC COMBINATION IS PRESSED, AKA 3 letter followed by 3 numbers
         {
             string carLicense = string.Empty;
             bool isValid = false;
@@ -72,7 +72,7 @@ public static class InputValidator
             return carLicense;
         }
 
-        private static void PrintErrorMessage(string message)
+        private static void PrintErrorMessage(string message) //ERROR MSG FOR USER
         {
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine(message);
