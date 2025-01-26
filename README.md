@@ -1,4 +1,4 @@
-# SebsFabrik Console Application
+# SebsFabrik C# Console Application
 
 ## Overview
 SebsFabrik is a simple C# console application created for Multifabriken AB, allowing customers to place orders for different types of products. The application offers the ability to create and list products, which include cars, candy, pipes, and oat milk. The program provides an interactive menu where users can select the product type, enter the required information, and view a list of products they have ordered.
